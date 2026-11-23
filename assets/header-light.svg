@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="310" viewBox="0 0 840 310" font-family="-apple-system, BlinkMacSystemFont, 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Segoe UI', sans-serif">
+  <rect width="840" height="310" rx="24" fill="#FFFFFF" stroke="#E5E8EB"/>
+  <rect x="40" y="38" width="128" height="28" rx="14" fill="#3182F6" fill-opacity="0.12"/>
+  <text x="104" y="57" font-size="13" font-weight="700" fill="#3182F6" text-anchor="middle">Frontend Engineer</text>
+  <text x="40" y="116" font-size="38" font-weight="800" fill="#191F28">최아영</text>
+  <text x="40" y="150" font-size="17" fill="#4E5968">금융 서비스 화면과 사내 도구를 만드는 프론트엔드 개발자예요</text>
+  <rect x="40" y="176" width="240" height="104" rx="18" fill="#F2F4F6"/>
+  <text x="62" y="214" font-size="26" font-weight="700" fill="#3182F6">18.7%</text>
+  <text x="62" y="242" font-size="15" font-weight="600" fill="#191F28">LCP 단축</text>
+  <text x="62" y="263" font-size="12.5" fill="#8B95A1">신용관리 메인 · 통제 환경</text>
+  <rect x="300" y="176" width="240" height="104" rx="18" fill="#F2F4F6"/>
+  <text x="322" y="214" font-size="26" font-weight="700" fill="#3182F6">46개</text>
+  <text x="322" y="242" font-size="15" font-weight="600" fill="#191F28">모달 공통 구조</text>
+  <text x="322" y="263" font-size="12.5" fill="#8B95A1">Figma 모달을 7가지 형태로 설계</text>
+  <rect x="560" y="176" width="240" height="104" rx="18" fill="#F2F4F6"/>
+  <text x="582" y="214" font-size="26" font-weight="700" fill="#3182F6">120 → 30초</text>
+  <text x="582" y="242" font-size="15" font-weight="600" fill="#191F28">AI 코드 리뷰</text>
+  <text x="582" y="263" font-size="12.5" fill="#8B95A1">팀 컨벤션을 매 PR마다</text>
+</svg>
