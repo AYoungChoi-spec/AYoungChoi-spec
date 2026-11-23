@@ -33,13 +33,9 @@ ISMS 대응 인증 체계를 운영 중단 없이 Keycloak으로 단계 전환, 
 
 <br>
 
-### 프로젝트
+### 학생 때 프로젝트
 
-회사 코드는 비공개라 개인 프로젝트만 올려 두었어요.
-
-- [**ayoung-portfolio**](https://github.com/AYoungChoi-spec/ayoung-portfolio) · 경력기술서와 포트폴리오를 한 화면에서 보는 웹
-- [**cockCockSport**](https://github.com/AYoungChoi-spec/cockCockSport) · 배드민턴 브랜드 쇼핑몰 웹
-- [**고등학교 프로젝트**](https://github.com/chldkduds2) · Smarteen App+ Challenge 최우수상, SW마이스터고 연합 해커톤 수상작
+대구소프트웨어마이스터고 시절 팀 프로젝트는 [chldkduds2](https://github.com/chldkduds2)에 있어요. Smarteen App+ Challenge 최우수상, SW마이스터고 연합 해커톤 SBXG 상 수상작이 들어 있어요.
 
 <br>
 
